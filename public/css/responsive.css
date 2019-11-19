@@ -425,19 +425,19 @@ margin-left: 0;
 /* Banner img Starts Here */
 
 .bannerSliderItems:nth-child(1) .bannerImg{
-    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+    background-image:url('../img/footerSocialMedia.png');
   }
   .bannerSliderItems:nth-child(2) .bannerImg{
-    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+    background-image:url('../img/footerSocialMedia.png');
   }
   .bannerSliderItems:nth-child(3) .bannerImg{
-    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+    background-image:url('../img/footerSocialMedia.png');
   }
   .bannerSliderItems:nth-child(4) .bannerImg{
-    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+    background-image:url('../img/footerSocialMedia.png');
   }
   .bannerSliderItems:nth-child(5) .bannerImg{
-    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+    background-image:url('../img/footerSocialMedia.png');
   }
 
 /* Banner img Ends Here */
@@ -511,19 +511,19 @@ display: none;
 
 /* Banner img Starts Here */
 .bannerSliderItems:nth-child(1) .bannerImg{
-    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+    background-image:url('../img/footerSocialMedia.png');
   }
   .bannerSliderItems:nth-child(2) .bannerImg{
-    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+    background-image:url('../img/footerSocialMedia.png');
   }
   .bannerSliderItems:nth-child(3) .bannerImg{
-    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+    background-image:url('../img/footerSocialMedia.png');
   }
   .bannerSliderItems:nth-child(4) .bannerImg{
-    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+    background-image:url('../img/footerSocialMedia.png');
   }
   .bannerSliderItems:nth-child(5) .bannerImg{
-    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+    background-image:url('../img/footerSocialMedia.png');
   }
 
   /* Banner img Ends Here */
@@ -562,18 +562,18 @@ display: none;
 
 @media all and (min-width:360px) and (max-width:1024px) and (orientation: landscape){
     .bannerSliderItems:nth-child(1) .bannerImg{
-        background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+        background-image:url('../img/footerSocialMedia.png');
       }
       .bannerSliderItems:nth-child(2) .bannerImg{
-        background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+        background-image:url('../img/footerSocialMedia.png');
       }
       .bannerSliderItems:nth-child(3) .bannerImg{
-        background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+        background-image:url('../img/footerSocialMedia.png');
       }
       .bannerSliderItems:nth-child(4) .bannerImg{
-        background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+        background-image:url('../img/footerSocialMedia.png');
       }
       .bannerSliderItems:nth-child(5) .bannerImg{
-        background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+        background-image:url('../img/footerSocialMedia.png');
       }
 }
