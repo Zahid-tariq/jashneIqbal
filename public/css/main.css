@@ -319,7 +319,7 @@ margin-bottom: 92px;
   
 }
 .titleWithFirstLetter::first-letter {
-  color: #ff0066;
+  color: #ffb006;
 }
 
 .aboutSection p{
@@ -1125,7 +1125,7 @@ margin: 0 12px;
     text-align: center;
 }
 .titleWithLastWord span{
-  color: #ff0066;
+  color: #ffb006;
 }
 .venue{
   padding-top: 92px;
@@ -1146,7 +1146,7 @@ border-radius: 6px;
   padding-top: 92px;
 }
 .venueInfoSection h4{
-  color: #45a8de;
+  color: #ffb006;
   font-size: 20px;
   font-family: 'product_sansbold';
   text-transform: uppercase;
@@ -1194,7 +1194,7 @@ font-weight: 300;
 }
 .contactInfo a{
   font-size: 18px;
-  color: #ff0066;
+  color: #ffb006;
   font-family: 'product_sansbold';
   line-height: 1.2;
   margin-bottom: 16px;
@@ -1496,7 +1496,7 @@ content: '\e932';
 }
 .sectionTitleWrap .sectionSubTitle{
   font-size: 112px;
-    color: #ff0066;
+    color:#ffb006;
     line-height: 1.2;
     font-family: "product_sansbold";
     text-transform: lowercase;
@@ -1807,19 +1807,19 @@ display: none;
 /* Banner img Starts Here */
 
 .bannerSliderItems:nth-child(1) .bannerImg{
-  background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  background-image:url(../img/Banner.jpg);
 }
 .bannerSliderItems:nth-child(2) .bannerImg{
-  background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  background-image:url(../img/Banner.jpg);
 }
 .bannerSliderItems:nth-child(3) .bannerImg{
-  background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  background-image:url(../img/Banner.jpg);
 }
 .bannerSliderItems:nth-child(4) .bannerImg{
-  background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  background-image:url(../img/Banner.jpg);
 }
 .bannerSliderItems:nth-child(5) .bannerImg{
-  background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  background-image:url(../img/Banner.jpg);
 }
 
 /* .bannerSliderItems:nth-child(2) .bannerImg{
