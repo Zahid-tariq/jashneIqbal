@@ -1,0 +1,579 @@
+@media all and (min-width:360px) and (max-width:767px)  {
+    #header{ 
+    padding: 0px 16px;  
+    }
+    /* .logo img{
+      width: 60%;
+    } */
+    .titleWithFirstLetter{
+        font-size: 50px;
+        margin-bottom: 24px;
+    }
+    .archives:hover .archivesMenu {
+        top: 50px;
+    }
+    .archivesMenu {
+        left: -32px;
+    }
+    .navigation li a {
+        padding: 15px 0 15px;
+}
+.navSocialMedia{
+    /* float: left; */
+    float: right;
+}
+.navigation li{
+    font-size: 14px;
+    margin-left: 9px;
+}
+.headerSocialMedia {
+    display: none;
+}
+.highlightsSection h2 {
+    font-size: 50px;
+    margin-top: -9px;
+    margin-bottom: 46px;
+}
+.aboutSection {
+    padding-top: 50px;
+}
+.aboutSection p {
+    font-size: 16px;
+}
+.registrationNotification {
+    padding-top: 50px;
+}
+.fieldradioBtnCheckmark {
+    height: 15px;
+    width: 15px;
+}
+.fieldradioBtnContainer {
+    padding-left: 28px;
+    font-size: 14px;
+    margin-left: 15px;
+}
+.fieldradioBtnContainer .fieldradioBtnCheckmark:after {
+    top: 4px;
+    left: 4px;
+    width: 7px;
+    height: 7px;
+}
+.occupationFieldInput {
+     float: right;
+     width: 205px;
+    margin-left: 32px;
+}
+.dateField, .genderField {
+    width: calc(100% - 0px);
+}
+.dateFieldInput, .genderFieldInput {
+    width: 208px;
+}
+.mobileFieldInput {
+    width: 108px;
+}
+.footerSocialMedia a {
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+    margin: 0 6px;
+}
+.attendJERField .fieldradioBtn {
+    float: left;
+    padding: 20px 0px;
+    width: 44%
+}
+.footerSocialMedia a.socialMediaShareFB {
+    background-position: -574px -385px;
+}
+.footerSocialMedia a.socialMediaSharetwitter {
+    background-position: -431px -385px;
+}
+.footerSocialMedia a.socialMediaShareYouTube {
+    background-position: -153px -385px;
+
+}
+.footerSocialMedia a.socialMediaShareInstagram {
+    background-position: -10px -385px;
+}
+.footerSocialMedia a.socialMediaShareFB:hover {
+    background-position: -574px -385px;
+}
+.footerSocialMedia a.socialMediaSharetwitter:hover {
+    background-position: -431px -385px;
+}
+.footerSocialMedia a.socialMediaShareYouTube:hover {
+    background-position: -153px -385px;
+}
+.footerSocialMedia a.socialMediaShareInstagram:hover {
+    background-position: -10px -385px;
+}
+.primaryFooter h5 {
+    font-size: 10px;
+    letter-spacing: 4px;
+}
+.footerSocialMedia {
+    padding: 41px 0 0px;
+}
+.secondaryFooter li {
+    margin: 0 3px;
+}
+/* .registrationNotification {
+    padding-bottom: 50px;
+} */
+.fieldradioBtn .fieldradioBtnContainer{
+    margin-left: 0;
+    margin-right: 10px;
+}
+.navigation li:first-child {
+    margin-left: 9px;
+}
+.thanksMsg h3 {
+    font-size: 30px;
+}
+.thingsToRemeber h4 {
+    font-size: 16px;
+}
+.thingsToRemeber p {
+    font-size: 18px;
+    margin-bottom: 24px;
+    padding-top: 24px;
+}
+.thanksMsg p {
+    font-size: 14px;
+}
+.highlightsSection {
+    padding-top: 50px;
+}
+.jerBtn {
+    font-size: 16px;
+}
+.secondaryFooter {
+    padding: 24px 0;
+}
+
+.termConPopup{
+    max-width: 320px;
+    max-height: 90%;
+}
+.termConPopup h2{
+    font-size: 20px;
+}
+.termPopupContainer{
+    padding: 0px 32px 0px;
+}
+.selfEmployFieldInput{
+float: right;
+width: 205px;
+}
+.jerCheckBoxcheckmark {
+    top: 3px;
+    height: 14px;
+    width: 14px;
+}
+.selfEmployFieldInput{
+margin-left: 0;
+}
+.jerCheckBoxcontainer .jerCheckBoxcheckmark:after {
+    left: 3px;
+    top: 0px;
+    width: 4px;
+    height: 8px;
+ }
+ .contributeSection p {
+    font-size: 16px;
+}
+.titleWithLastWord {
+    font-size: 56px;
+    margin-bottom: 24px;
+}
+.mapSection {
+    width: 100%;
+    float: none;
+}
+.venueInfo {
+    width: 100%;
+    float: none;
+    padding-top: 48px;
+    text-align: center;
+}
+.mapSection iframe {
+    width: 100%;
+    height: 300px;
+}
+.venueInfoSection h4{
+    font-size: 14px;
+}
+.venueInfoSection p{
+    font-size: 16px;
+}
+.venue{
+    padding-bottom: 50px;
+}
+.contributeSection .jerBtn {
+    margin: 0 4px;
+    font-size: 14px;
+    padding:12px 5px 8px 8px;
+}
+.jerBtn{
+    padding:12px 14px 8px 24px;
+}
+.jerBtn i{
+    font-size: 24px;
+}
+
+.contactInfo p,.contactInfo a{
+    font-size: 14px;
+}
+
+.termConPopupClose {
+    right: 12px;
+    top: 12px;
+    width: 24px;
+    height: 24px;
+    background-size: 100% auto;
+}
+.archivesMenu li{
+    margin: 0 !important;
+    padding: 0 12px;
+}
+.venueInfoSection h4::before {
+    left: 50%;
+    margin-left: -23px;
+}
+
+.thingsToRemeber p::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 0;
+    width: 64px;
+    height: 1px;
+    background: #737272;
+    margin-left: -32px;
+}
+.hideMenu{
+    display: none;
+}
+
+.menuToggle{
+    display: block;
+}
+
+.logo {
+    margin-left: 18px;
+    width: 92px;
+}
+.logo img{
+    width: 100%;
+    height: auto;
+}
+.menuOpen .navSocialMedia{
+display: none;
+}
+
+
+  .sectionTitleWrap .sectionTitle {
+    font-size: 48px;
+}
+.sectionTitleWrap .sectionSubTitle {
+    font-size: 48px;
+    margin-top: -14px;
+    margin-left: 89px;
+}
+
+
+.whatToExceptSection,.gallerySection,.getInvolved{
+    padding-top: 50px;
+  }
+
+.galleryItems{
+    width: calc(50% - 16px);
+    height: 104px;
+    margin-left: 16px;
+    margin-bottom: 16px;
+}
+.galleryItmesWrap {
+    margin-left: -16px;
+}
+
+.galleryItems img{
+    border-radius: 6px;
+}
+.tMDonate h4 {
+    font-size: 20px;
+}
+.tMDonate .jerBtn {
+    margin: 0 4px;
+    font-size: 14px;
+    padding: 12px 5px 8px 8px;
+}
+.getInvolved .sectionTitleWrap span {
+    font-size: 32px;
+}
+/* css by pankaj start*/
+.sPItems {
+    width: calc(50% - 16px);
+    height: 150px;
+    margin-left: 16px;
+    margin-bottom: 16px;
+}
+.spPItems img{
+    top: 45%;
+    max-height: 70%;
+}
+.sPItems h5 {
+    bottom: 8px;
+    font-size: 11px;
+}
+.whattoExceptBody img.tCmimages{
+display: none;
+}
+.whattoExceptBody img.tCmmobImages{
+    display: block;
+  }
+  .wTEfullWidth {
+    margin-bottom: 24px;
+    width: calc(50% - 8px);
+    float: left;
+    margin-right: 8px;
+    margin-bottom: 16px;
+}
+.wTEthirdWidthImg {
+    width: calc(50% - 8px);
+    float: left;
+    margin-left: 16px;
+    margin-right: 0px;
+    margin-bottom: 24px;
+}
+.whattoExceptBody {
+    position: relative;
+}
+.wTEthirdWidth {
+clear: both;
+}
+.wTEthirdWidthImg:first-child {
+    /* margin-left: 0;
+    margin-left: 8px;
+    position: absolute;
+    right: 0;
+    margin-right: 0;
+    top: 0; */
+}
+
+.wTEthirdWidthImg:first-child,.wTEthirdWidthImg:nth-child(3){
+    margin-left: 0
+}
+
+.wTEHalfWidthTwo .wTEhalfWidthImg:first-child{
+    /* margin-left: 0;
+    margin-left: 8px;
+    position: absolute;
+    right: 0;
+    margin-right: 0;
+    bottom: 0; */
+}
+
+.wTEthirdWidth .wTEhalfWidthImgDevice{
+    display: block;
+    }
+
+    .wTEHalfWidthTwo .wTEhalfWidthImgDevice{
+        display: none;
+        }
+
+
+.wTEhalfWidthImg {
+    width: calc(50% - 8px);
+    margin-left: 16px;
+}
+.wTEthirdWidthImg:last-child{
+/* margin-right: 0;
+margin-left: 8px; */
+}
+
+.wTEHalfWidthTwo .wTEhalfWidthImg{
+margin-left: 0;
+}
+
+.videoContainer i{
+    width: 48px;
+    height: 48px;
+    background-size: 100% auto;
+    left: 50%;
+    top: 50%;
+    margin-left: -24px;
+    margin-top: -24px;
+}
+.videoListItem {
+    width: 130px;
+    height: 98px;
+    margin-left: 16px;
+}
+.videoListItem i {
+    width: 36px;
+    height: 36px;
+    margin-left: -18px;
+    margin-top: -18px;
+}
+.sposorsandPartnersWrap {
+    margin-left: -16px;
+}
+
+/* css by pankaj start*/
+
+/* Banner img Starts Here */
+
+.bannerSliderItems:nth-child(1) .bannerImg{
+    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  }
+  .bannerSliderItems:nth-child(2) .bannerImg{
+    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  }
+  .bannerSliderItems:nth-child(3) .bannerImg{
+    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  }
+  .bannerSliderItems:nth-child(4) .bannerImg{
+    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  }
+  .bannerSliderItems:nth-child(5) .bannerImg{
+    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  }
+
+/* Banner img Ends Here */
+
+
+
+
+}
+
+@media all and (min-width:768px) and (max-width:1024px){
+    .headerSocialMedia{
+        display: none;
+    }
+    .highlightsSection h2 {
+        font-size: 82px;
+        margin-top: -14px;
+}
+.occupationFieldInput {
+    width: 418px;
+}
+.aboutSection p {
+    font-size: 20px;
+}
+
+.contributeSection p{
+    font-size: 20px;
+}
+
+.hideMenu{
+    display: none;
+}
+
+.menuToggle{
+    display: block;
+}
+
+.logo {
+    margin-left: 18px;
+    width: 92px;
+}
+.logo img{
+    width: 100%;
+    height: auto;
+}
+.menuOpen .navSocialMedia{
+display: none;
+}
+.navigation li a{
+    padding: 16px 0 16px;
+}
+
+
+  
+  .galleryItems {
+    height: 160px;
+  }
+  .sPItems {
+    width: calc(33.33% - 24px);
+    height: 225px;
+  }
+  .sPItems h5 {
+    bottom: 12px;
+    text-transform: uppercase;
+}
+.sectionTitleWrap .sectionSubTitle{
+    margin-left: 198px;
+}
+
+
+
+
+/* Banner img Starts Here */
+.bannerSliderItems:nth-child(1) .bannerImg{
+    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  }
+  .bannerSliderItems:nth-child(2) .bannerImg{
+    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  }
+  .bannerSliderItems:nth-child(3) .bannerImg{
+    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  }
+  .bannerSliderItems:nth-child(4) .bannerImg{
+    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  }
+  .bannerSliderItems:nth-child(5) .bannerImg{
+    background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+  }
+
+  /* Banner img Ends Here */
+
+
+
+
+}
+
+@media all and (min-width:360px) and (max-width:1024px){
+
+
+    .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+        bottom: 32px;
+    }
+
+    .bx-wrapper .bx-controls-direction a{
+        width: 32px;
+    height: 32px;
+    margin-top: -16px;
+    line-height: 32px;
+    }
+
+    .bx-wrapper .bx-controls-direction a::before{
+        font-size: 32px;
+    }
+
+    .videoListing{
+    overflow-x: auto;
+    }
+
+
+
+}
+
+
+@media all and (min-width:360px) and (max-width:1024px) and (orientation: landscape){
+    .bannerSliderItems:nth-child(1) .bannerImg{
+        background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+      }
+      .bannerSliderItems:nth-child(2) .bannerImg{
+        background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+      }
+      .bannerSliderItems:nth-child(3) .bannerImg{
+        background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+      }
+      .bannerSliderItems:nth-child(4) .bannerImg{
+        background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+      }
+      .bannerSliderItems:nth-child(5) .bannerImg{
+        background-image:url('https://jashnerekhta.org/wp-content/themes/jer/assets/img/ContemporaryMusic.png');
+      }
+}
