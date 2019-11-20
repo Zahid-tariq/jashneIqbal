@@ -44,7 +44,10 @@
   background: #bb0000;
   color: white;
 }
-
+.table{
+  text-align:center;
+  height: 350px;
+}
 .content {
   margin-left: 75px;
   font-size: 30px;
